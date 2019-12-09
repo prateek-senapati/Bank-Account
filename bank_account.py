@@ -6,7 +6,7 @@
 
 class Account:
 
-    def __init__(self, owner, balance):
+    def __init__(self, owner = "xxxx", balance = 0):
         self.owner = owner
         self.balance = balance
 
