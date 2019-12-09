@@ -1,3 +1,9 @@
+# COURSE: Complete Python Bootcamp: Go from zero to hero in Python 3
+# INSTRUCTOR: Jose Portilla
+# PLATFORM: Udemy
+
+# Object Oriented Programming (OOP) Challenge: BANK SYSTEM
+
 class Account:
 
     def __init__(self, owner, balance):
